@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/oussamabenberkane" target="_blank">
+  <a href="https://linkedin.com/in/oussama-benberkane" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://instagram.com/oussbytheway" target="_blank">
@@ -22,8 +22,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=oussamabenberkane&label=Profile%20views&color=0e75b6&style=flat" alt="oussamabenberkane" />
 </p>
-
----
 
 - 🔭 I'm currently working on **[Learning Elixir by rebuilding my finished bookstore API](https://github.com/oussamabenberkane/esprit-livre-api)**
 
