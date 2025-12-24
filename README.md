@@ -1,19 +1,13 @@
 <h1 align="center">Hey bros 👋, I'm Oussama</h1>
-<h3 align="center">Backend engineer who builds scalable systems & occasionally trains neural networks and works with LLMs</h3>
+<h3 align="center">Backend dude who builds scalable systems & occasionally trains neural networks and works with LLMs</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oussamabenberkane&label=Profile%20views&color=0e75b6&style=flat" alt="oussamabenberkane" /> </p>
 
 - 🔭 I’m currently working on [Learning Elixir by rebuilding my finished bookstore API](https://github.com/oussamabenberkane/esprit-livre-api)
 
-- 🌱 I’m currently learning **Elixir/Phoenix (Curious how OTP compares to Spring Boot) + React/Tailwind (frontend skills to prototype faster)**
-
-- 👯 I’m looking to collaborate on **Open-source tools, AI applications**
-
 - 🤝 I’m looking for help with **Elixir best practices - migrating from OOP patterns to functional thinking**
 
 - 👨‍💻 All of my projects are available at [https://oussamabenberkane.com](https://oussamabenberkane.com)
-
-- 💬 Ask me about **Building Spring Boot - Django backends, or why I use Arch (idk why)**
 
 - 📫 How to reach me **oussamabenberkane.pro@gmail.com**
 
