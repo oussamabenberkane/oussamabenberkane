@@ -1,7 +1,7 @@
 <h1 align="center">Hey bros 👋, I'm Oussama</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Backend+engineer+building+scalable+systems;Training+neural+networks+%26+working+with+LLMs;Learning+Elixir+%26+functional+programming;Writing+songs+when+not+debugging+microservices" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Backend+engineer+building+scalable+systems;Occasionally training+neural+networks+%26+working+with+LLMs;Learning+Elixir+%26+functional+programming;Writing+songs+and+playing+basketball+when+not+coding" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -27,20 +27,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=oussamabenberkane&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=oussamabenberkane&theme=radical&hide_border=true" alt="GitHub Streak" height="170" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oussamabenberkane&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=oussamabenberkane&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=oussamabenberkane&theme=radical&no-frame=true&row=1&column=7" alt="Trophies" />
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -51,12 +38,15 @@
 <a href="https://linkedin.com/in/oussamabenberkane" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" />
 </a>
+  
 <a href="https://instagram.com/oussbytheway" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="40" />
 </a>
+
 <a href="https://oussamabenberkane.com" target="blank">
   <img align="center" src="https://img.icons8.com/fluency/48/000000/domain.png" alt="Portfolio" height="40" width="40" />
 </a>
+
 <a href="mailto:oussamabenberkane.pro@gmail.com">
   <img align="center" src="https://img.icons8.com/fluency/48/000000/gmail.png" alt="Email" height="40" width="40" />
 </a>
