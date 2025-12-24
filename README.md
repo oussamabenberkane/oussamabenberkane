@@ -22,13 +22,9 @@
 
 - ⚡ Fun fact **I enjoy writing songs, playing guitar, and singing when I'm not coding**
 
-## 📊 GitHub Stats
-
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=oussamabenberkane&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
 </p>
-
-## 🤝 Connect with Me
 
 <p align="left">
 <a href="https://linkedin.com/in/oussamabenberkane" target="blank">
@@ -47,8 +43,6 @@
   <img align="center" src="https://img.icons8.com/fluency/48/000000/gmail.png" alt="Email" height="40" width="40" />
 </a>
 </p>
-
-## 🛠️ Tech Stack
 
 ### Backend
 <p align="left">
