@@ -1,7 +1,7 @@
 <h1 align="center">Hey bros 👋, I'm Oussama</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Backend+engineer+building+scalable+systems;Occasionally training+neural+networks+%26+working+with+LLMs;Learning+Elixir+%26+functional+programming;Writing+songs+and+playing+basketball+when+not+coding" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Backend+engineer+building+scalable+systems;Occasionally+training+neural+networks+%26+working+with+LLMs;Learning+Elixir+%26+functional+programming;Writing+songs+and+playing+basketball+when+not+coding" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -85,16 +85,13 @@
 </a>
 </p>
 
-### Database & Messaging
+### Database
 <p align="left">
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="45" height="45"/>
 </a>
 <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="45" height="45"/>
-</a>
-<a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="45" height="45"/>
 </a>
 </p>
 
@@ -121,6 +118,9 @@
 <p align="left">
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="45" height="45"/>
+</a>
+<a href="https://www.python.org" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="45"/>
 </a>
 </p>
 
