@@ -5,8 +5,25 @@
 </p>
 
 <p align="center">
+  <a href="https://linkedin.com/in/oussamabenberkane" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://instagram.com/oussbytheway" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://oussamabenberkane.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="mailto:oussamabenberkane.pro@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=oussamabenberkane&label=Profile%20views&color=0e75b6&style=flat" alt="oussamabenberkane" />
 </p>
+
+---
 
 - 🔭 I'm currently working on **[Learning Elixir by rebuilding my finished bookstore API](https://github.com/oussamabenberkane/esprit-livre-api)**
 
@@ -88,24 +105,6 @@
 </a>
 <a href="https://www.python.org" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="45"/>
-</a>
-</p>
-
-<p align="left">
-<a href="https://linkedin.com/in/oussamabenberkane" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" />
-</a>
-  
-<a href="https://instagram.com/oussbytheway" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="40" />
-</a>
-
-<a href="https://oussamabenberkane.com" target="blank">
-  <img align="center" src="https://img.icons8.com/fluency/48/000000/domain.png" alt="Portfolio" height="40" width="40" />
-</a>
-
-<a href="mailto:oussamabenberkane.pro@gmail.com">
-  <img align="center" src="https://img.icons8.com/fluency/48/000000/gmail.png" alt="Email" height="40" width="40" />
 </a>
 </p>
 
