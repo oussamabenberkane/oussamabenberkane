@@ -1,5 +1,5 @@
 <h1 align="center">Hey bros 👋, I'm Oussama</h1>
-<h3 align="center">Backend dude who builds scalable systems & occasionally trains neural networks and works with LLMs</h3>
+<h3 align="center">Backend dude who builds scalable systems </br>& occasionally trains neural networks and works with LLMs</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oussamabenberkane&label=Profile%20views&color=0e75b6&style=flat" alt="oussamabenberkane" /> </p>
 
