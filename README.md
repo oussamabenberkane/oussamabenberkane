@@ -8,8 +8,6 @@
   <img src="https://komarev.com/ghpvc/?username=oussamabenberkane&label=Profile%20views&color=0e75b6&style=flat" alt="oussamabenberkane" />
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 ## 🚀 About Me
 
 - 🔭 I'm currently working on **[Learning Elixir by rebuilding my finished bookstore API](https://github.com/oussamabenberkane/esprit-livre-api)**
@@ -21,8 +19,6 @@
 - 📫 How to reach me **oussamabenberkane.pro@gmail.com**
 
 - ⚡ Fun fact **I enjoy writing songs, playing guitar, and singing when I'm not coding**
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 📊 GitHub Stats
 
@@ -51,8 +47,6 @@
   <img align="center" src="https://img.icons8.com/fluency/48/000000/gmail.png" alt="Email" height="40" width="40" />
 </a>
 </p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🛠️ Tech Stack
 
